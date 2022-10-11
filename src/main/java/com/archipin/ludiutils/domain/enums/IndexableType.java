@@ -62,5 +62,9 @@ public enum IndexableType {
     MyHouseDummyObject,
     FishingSpot,
     FishingArea,
+    ClockTower,
+    Max,
+    Photopia,
+    CottonCandyMaker
     ;
 }
