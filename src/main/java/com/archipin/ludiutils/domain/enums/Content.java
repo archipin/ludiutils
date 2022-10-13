@@ -67,6 +67,7 @@ public enum Content {
     FlowerClock,
     TakePictures,
     Make,
-    SetTheTime
+    SetTheTime,
+    Parcel
     ;
 }
