@@ -70,5 +70,6 @@ public enum Content {
     SetTheTime,
     Reporter,
     WeatherForecast
+    Parcel
     ;
 }
