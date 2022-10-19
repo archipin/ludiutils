@@ -69,7 +69,7 @@ public enum Content {
     Make,
     SetTheTime,
     Reporter,
-    WeatherForecast
+    WeatherForecast,
     Parcel
     ;
 }
