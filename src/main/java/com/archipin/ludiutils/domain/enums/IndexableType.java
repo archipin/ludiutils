@@ -66,6 +66,8 @@ public enum IndexableType {
     Max,
     Photopia,
     CottonCandyMaker,
-    WeatherForecast
+    WeatherForecast,
+    Flower,
+    Leaves
     ;
 }
