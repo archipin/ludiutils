@@ -65,6 +65,7 @@ public enum IndexableType {
     ClockTower,
     Max,
     Photopia,
-    CottonCandyMaker
+    CottonCandyMaker,
+    WeatherForecast
     ;
 }
