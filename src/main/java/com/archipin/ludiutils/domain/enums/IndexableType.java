@@ -68,6 +68,7 @@ public enum IndexableType {
     CottonCandyMaker,
     WeatherForecast,
     Flower,
-    Leaves
+    Leaves,
+    LudiStation
     ;
 }
