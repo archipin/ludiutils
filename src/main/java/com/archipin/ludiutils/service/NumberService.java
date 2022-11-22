@@ -12,7 +12,7 @@ public class NumberService {
     }
 
     public Level convertLevel(Float lv) {
-        String s = lv.toString();
+        String s = String.format("%.2f", lv);
         String[] split = s.split("\\.");
         return Level.builder().major(Integer.valueOf(split[0])).minor(Integer.valueOf(split[1])).build();
     }
