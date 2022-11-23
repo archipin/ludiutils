@@ -70,6 +70,8 @@ public enum Content {
     SetTheTime,
     Reporter,
     WeatherForecast,
-    Parcel
+    Parcel,
+    MummysStoneTablet,
+    Ghostbusters
     ;
 }
