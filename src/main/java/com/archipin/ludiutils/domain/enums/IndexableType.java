@@ -69,6 +69,7 @@ public enum IndexableType {
     WeatherForecast,
     Flower,
     Leaves,
-    LudiStation
+    LudiStation,
+    Interior
     ;
 }
