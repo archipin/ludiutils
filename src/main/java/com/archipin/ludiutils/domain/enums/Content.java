@@ -72,6 +72,6 @@ public enum Content {
     WeatherForecast,
     Parcel,
     MummysStoneTablet,
-    Ghostbusters
-    ;
+    Ghostbusters,
+    PlayWithPet,
 }
