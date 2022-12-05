@@ -10,5 +10,6 @@ public enum DynamicSpotType {
     MiningOnly,
     NoMining,
     Tile,
-    TownGrass
+    TownGrass,
+    Mission,
 }
