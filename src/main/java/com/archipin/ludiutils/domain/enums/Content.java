@@ -74,4 +74,5 @@ public enum Content {
     MummysStoneTablet,
     Ghostbusters,
     PlayWithPet,
+    MonsterHunting
 }
