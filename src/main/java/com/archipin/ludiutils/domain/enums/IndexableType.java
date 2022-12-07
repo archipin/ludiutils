@@ -5,7 +5,8 @@ import lombok.AllArgsConstructor;
 @AllArgsConstructor
 public enum IndexableType {
     None,
-    Monster,
+    Minion,
+    MinionSpawnPoint,
     ConstructionBuilding,
     ConstructionBuildingBoard,
     ConstructionBuildingGrid,
@@ -69,6 +70,5 @@ public enum IndexableType {
     Flower,
     Leaves,
     LudiStation,
-    Interior
-    ;
+    Interior,
 }
