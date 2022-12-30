@@ -67,10 +67,8 @@ public enum IndexableType {
     WeatherForecast,
     LudiStation,
     ReporterTruck,
-    // === jaewook : DynamicSpot용 Indexable 미리 추가
-    Flower, // 꽃 FC에 사용하면 됩니다.
-    Leaves, // 낙엽 치우기 FC에 사용하면 됩니다.(FC 정확하게는 아직 미정.)
-    // ===
+    Flower,
+    Leaves,
     Photopia,
     CottonCandyMaker,
     Camp,
