@@ -12,9 +12,10 @@ public class NumberService {
     }
 
     public Level convertLevel(Float lv) {
-        String s = String.format("%.2f", lv);
-        String[] split = s.split("\\.");
-        return Level.builder().major(Integer.valueOf(split[0])).minor(Integer.valueOf(split[1])).build();
+        Integer major = lv.intValue();
+        float min = (lv.floatValue() - major.floatValue()) * 10.0f;
+        Integer minor = Integer.valueOf((int)min);
+        return Level.builder().major(major).minor(minor).build();
     }
 
     public boolean equals(float a, float b) {
