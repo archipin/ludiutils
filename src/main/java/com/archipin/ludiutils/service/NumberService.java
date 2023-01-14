@@ -12,9 +12,10 @@ public class NumberService {
     }
 
     public Level convertLevel(Float lv) {
-        Integer major = lv.intValue();
-        float min = (lv.floatValue() - major.floatValue()) * 10.0f;
-        Integer minor = Integer.valueOf((int)min);
+        float level = lv + (Epsilon * 100);
+        int major = (int)level;
+        float min = (level - major) * 10.0f;
+        int minor = (int)min;
         return Level.builder().major(major).minor(minor).build();
     }
 
