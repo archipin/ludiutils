@@ -79,4 +79,5 @@ public enum IndexableType {
     Chair,
     LudiTree,
     Max,
+    DartsMachine,
 }

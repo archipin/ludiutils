@@ -75,6 +75,5 @@ public enum Content {
     Ghostbusters,
     PlayWithPet,
     MonsterHunting,
-    PetLearning,
-    PetFeed
+    Darts
 }
