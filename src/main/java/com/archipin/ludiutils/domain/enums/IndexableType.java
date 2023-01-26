@@ -73,7 +73,6 @@ public enum IndexableType {
     CottonCandyMaker,
     Camp,
     Interior,
-    // For testing simple interact renewal
     Action,
     Dinosaur,
     Chair,
