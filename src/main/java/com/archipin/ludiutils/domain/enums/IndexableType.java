@@ -78,6 +78,7 @@ public enum IndexableType {
     Dinosaur,
     Chair,
     LudiTree,
-    Max,
     DartsMachine,
+    SearchableObject,
+    Max,
 }
