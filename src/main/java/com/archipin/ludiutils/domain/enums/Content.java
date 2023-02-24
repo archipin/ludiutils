@@ -75,5 +75,9 @@ public enum Content {
     Ghostbusters,
     PlayWithPet,
     MonsterHunting,
-    Darts
+    Darts,
+    FeedingPet,
+    PattingPet,
+    SpeakOut,
+    FieldContent,
 }
