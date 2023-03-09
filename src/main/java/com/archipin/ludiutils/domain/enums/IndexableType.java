@@ -88,7 +88,7 @@ public enum IndexableType {
     Shop,
     LunaWorkShop,
     Vehicle,
-    Machine,
+    InteractableMachine,
     SignBoard,
     InteractableStructure,
     Sculpture,
@@ -105,5 +105,8 @@ public enum IndexableType {
     Fountain,
     BathTub,
     Fence,
+    ScrapBox,
+    FoodBox,
+    Depot,
     Max,
 }
