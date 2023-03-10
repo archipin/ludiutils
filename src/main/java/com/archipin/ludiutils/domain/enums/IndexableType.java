@@ -108,5 +108,8 @@ public enum IndexableType {
     ScrapBox,
     FoodBox,
     Depot,
+    Elevator,
+    ScrapBoard,
+    Toy,
     Max,
 }
