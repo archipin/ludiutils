@@ -111,5 +111,6 @@ public enum IndexableType {
     Elevator,
     ScrapBoard,
     Toy,
+    NonInteractable,
     Max,
 }
