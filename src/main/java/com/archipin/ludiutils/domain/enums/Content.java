@@ -80,4 +80,5 @@ public enum Content {
     PattingPet,
     SpeakOut,
     FieldContent,
+    LudiPiece,
 }
