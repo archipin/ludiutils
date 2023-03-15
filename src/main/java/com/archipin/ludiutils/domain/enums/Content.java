@@ -81,4 +81,5 @@ public enum Content {
     SpeakOut,
     FieldContent,
     LudiPiece,
+    InstantQuiz,
 }
