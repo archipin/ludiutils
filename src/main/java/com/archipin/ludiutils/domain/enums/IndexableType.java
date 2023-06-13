@@ -112,5 +112,13 @@ public enum IndexableType {
     ScrapBoard,
     Toy,
     NonInteractable,
+    MyHouseBed,
+    MyHouseTable,
+    MyHouseChair,
+    MyHouseElectronic,
+    MyHouseDeco,
+    MyHouseCloset,
+    MyHouseToy,
+    MyHouseTool,
     Max,
 }
