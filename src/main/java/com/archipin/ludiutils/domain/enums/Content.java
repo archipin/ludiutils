@@ -82,4 +82,6 @@ public enum Content {
     FieldContent,
     LudiPiece,
     InstantQuiz,
+    Backpack,
+    FieldInteraction,
 }
