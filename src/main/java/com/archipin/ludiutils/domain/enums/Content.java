@@ -84,4 +84,5 @@ public enum Content {
     InstantQuiz,
     Backpack,
     FieldInteraction,
+    InventoryRush,
 }

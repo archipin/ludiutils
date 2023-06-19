@@ -120,5 +120,9 @@ public enum IndexableType {
     MyHouseCloset,
     MyHouseToy,
     MyHouseTool,
+    InventoryRushBoxReturner,
+    InventoryRushBox,
+    InventoryRushTruck,
+    InventoryRushForklift,
     Max,
 }
