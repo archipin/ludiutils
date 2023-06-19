@@ -85,4 +85,5 @@ public enum Content {
     Backpack,
     FieldInteraction,
     InventoryRush,
+    LudiScrabble,
 }
