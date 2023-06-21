@@ -86,4 +86,5 @@ public enum Content {
     FieldInteraction,
     InventoryRush,
     LudiScrabble,
+    SiQuestion,
 }
