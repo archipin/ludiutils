@@ -124,5 +124,6 @@ public enum IndexableType {
     InventoryRushBox,
     InventoryRushTruck,
     InventoryRushForklift,
+    MonsterHuntingRanking,
     Max,
 }
