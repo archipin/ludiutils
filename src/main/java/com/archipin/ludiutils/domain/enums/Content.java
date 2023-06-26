@@ -87,4 +87,6 @@ public enum Content {
     InventoryRush,
     LudiScrabble,
     SiQuestion,
+    SwimFishSwim,
+    ChocoCocoa,
 }
