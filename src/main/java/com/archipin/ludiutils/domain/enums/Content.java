@@ -89,5 +89,4 @@ public enum Content {
     SiQuestion,
     SwimFishSwim,
     ChocoCocoa,
-    Detective,
 }
