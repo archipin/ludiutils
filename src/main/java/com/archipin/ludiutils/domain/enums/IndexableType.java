@@ -126,5 +126,6 @@ public enum IndexableType {
     InventoryRushForklift,
     MonsterHuntingRanking,
     FunctionalObject,
+    DetectiveClue,
     Max,
 }
