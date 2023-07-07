@@ -127,5 +127,6 @@ public enum IndexableType {
     MonsterHuntingRanking,
     FunctionalObject,
     DetectiveClue,
+    Tumbleweed,
     Max,
 }
