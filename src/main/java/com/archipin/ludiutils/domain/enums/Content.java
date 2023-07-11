@@ -90,4 +90,5 @@ public enum Content {
     SwimFishSwim,
     ChocoCocoa,
     Detective,
+    LunaFunction,
 }
