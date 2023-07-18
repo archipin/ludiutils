@@ -129,5 +129,6 @@ public enum IndexableType {
     DetectiveClue,
     Tumbleweed,
     FartTree,
+    WeeklyRankings,
     Max,
 }
