@@ -128,5 +128,6 @@ public enum IndexableType {
     FunctionalObject,
     DetectiveClue,
     Tumbleweed,
+    FartTree,
     Max,
 }
