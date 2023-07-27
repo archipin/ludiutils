@@ -12,4 +12,6 @@ public enum DynamicSpotType {
     Tile,
     TownGrass,
     Mission,
+    OreMiningOnly,
+    DustyDesert,
 }
