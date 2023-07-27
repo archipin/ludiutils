@@ -137,5 +137,6 @@ public enum IndexableType {
     MiningEntrance,
     Mirror,
     StainingTub,
+    DetectiveBoard,
     Max,
 }
