@@ -130,5 +130,12 @@ public enum IndexableType {
     Tumbleweed,
     FartTree,
     WeeklyRankings,
+    DynamiteBox,
+    DuckFarm,
+    MiningCart,
+    WareHouse,
+    MiningEntrance,
+    Mirror,
+    StainingTub,
     Max,
 }
