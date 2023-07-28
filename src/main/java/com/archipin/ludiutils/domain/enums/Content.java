@@ -93,4 +93,5 @@ public enum Content {
     LunaFunction,
     Tumbleweed,
     BossHunting,
+    KeyExpression,
 }
