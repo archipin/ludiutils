@@ -95,4 +95,5 @@ public enum Content {
     BossHunting,
     LevelTest,
     KeyExpression,
+    ExperienceMission,
 }
