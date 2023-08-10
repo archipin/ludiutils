@@ -79,6 +79,11 @@ public class DateService {
         return (to.getTime() - from.getTime()) / (1000 * 60);
     }
 
+    public Long calcSecondSpan(Date from, Date to) {
+        if(Objects.isNull(from) || Objects.isNull(to)) return 0l;
+        return (to.getTime() - from.getTime()) / (1000);
+    }
+
     public int getDayOfWeek(Date date) {
         Calendar calendar = new GregorianCalendar();
         calendar.setTime(date);
