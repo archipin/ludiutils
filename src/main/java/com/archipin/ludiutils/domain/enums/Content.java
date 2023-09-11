@@ -97,4 +97,5 @@ public enum Content {
     KeyExpression,
     ExperienceMission,
     RoadRunner,
+    ISayYouSay,
 }
