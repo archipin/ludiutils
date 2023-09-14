@@ -98,4 +98,5 @@ public enum Content {
     ExperienceMission,
     RoadRunner,
     ISayYouSay,
+    PookieCatch,
 }
