@@ -99,4 +99,8 @@ public enum Content {
     RoadRunner,
     ISayYouSay,
     PookieCatch,
+    PookieChat,
+    Lumos,
+    PhonicsFlower,
+    ThisOrThat,
 }
