@@ -138,5 +138,6 @@ public enum IndexableType {
     Mirror,
     StainingTub,
     DetectiveBoard,
+    ZoneMap,
     Max,
 }
