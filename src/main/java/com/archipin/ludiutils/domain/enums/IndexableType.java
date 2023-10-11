@@ -139,5 +139,6 @@ public enum IndexableType {
     StainingTub,
     DetectiveBoard,
     ZoneMap,
+    StoneTower,
     Max,
 }
