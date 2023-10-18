@@ -140,5 +140,7 @@ public enum IndexableType {
     DetectiveBoard,
     ZoneMap,
     StoneTower,
+    TheRootsEntranceObject,
+    TheRootsExitObject,
     Max,
 }
