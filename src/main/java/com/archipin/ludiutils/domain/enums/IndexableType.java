@@ -142,5 +142,6 @@ public enum IndexableType {
     StoneTower,
     TheRootsEntranceObject,
     TheRootsExitObject,
+    Lantern,
     Max,
 }
