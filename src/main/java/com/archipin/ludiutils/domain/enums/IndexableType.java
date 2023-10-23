@@ -143,5 +143,6 @@ public enum IndexableType {
     TheRootsEntranceObject,
     TheRootsExitObject,
     Lantern,
+    PhonicsFlower,
     Max,
 }
