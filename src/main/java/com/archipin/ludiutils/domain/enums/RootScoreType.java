@@ -7,5 +7,5 @@ public enum RootScoreType {
     None,
     Vocabulary,
     Phonics,
-    FuncionAndGrammer,
+    FunctionAndGrammar,
 }
