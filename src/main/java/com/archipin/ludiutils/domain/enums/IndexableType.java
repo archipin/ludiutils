@@ -146,4 +146,5 @@ public enum IndexableType {
     PhonicsFlower,
     ZoneBridge,
     Max,
+    SignBoardEvent,
 }
