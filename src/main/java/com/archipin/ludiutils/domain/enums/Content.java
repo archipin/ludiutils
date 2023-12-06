@@ -103,4 +103,5 @@ public enum Content {
     Lumos,
     PhonicsFlower,
     ThisOrThat,
+    FreeTalkingMission,
 }
