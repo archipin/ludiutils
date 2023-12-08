@@ -147,4 +147,5 @@ public enum IndexableType {
     ZoneBridge,
     Max,
     SignBoardEvent,
+    RootCore,
 }
