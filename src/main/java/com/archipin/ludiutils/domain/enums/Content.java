@@ -105,4 +105,6 @@ public enum Content {
     ThisOrThat,
     FreeTalkingMission,
     OtherMission,
+    CueTheLights,
+    PopcornParty,
 }
