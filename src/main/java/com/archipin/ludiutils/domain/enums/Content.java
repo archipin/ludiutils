@@ -106,5 +106,5 @@ public enum Content {
     FreeTalkingMission,
     OtherMission,
     CueTheLights,
-    PopcornParty,
+    PopcornParty
 }
