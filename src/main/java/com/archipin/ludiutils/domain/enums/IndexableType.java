@@ -148,4 +148,6 @@ public enum IndexableType {
     Max,
     SignBoardEvent,
     RootCore,
+    PhotoZone,
+    HayWagon,
 }
